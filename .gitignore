@@ -1,2 +1,7 @@
 .DS_STORE
-*.swp
+*
+!main.py
+!seed_products.py
+!index.html
+!requirements.txt
+!render.yaml
